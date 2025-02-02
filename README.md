@@ -53,9 +53,9 @@ The project serves as a bridge between theoretical Rust knowledge and practical 
    maturin develop
    ```
 1. **Use the Python bindings:**
-  ```bash
-  import your_rust_module
+    ```bash
+    import your_rust_module
 
-  # Example usage
-  your_rust_module.process_data("path/to/your/csvfile.csv")
-  ```
+    # Example usage
+    your_rust_module.process_data("path/to/your/csvfile.csv")
+    ```
